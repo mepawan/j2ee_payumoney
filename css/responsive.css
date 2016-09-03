@@ -1,0 +1,23 @@
+* { 
+-moz-box-sizing: border-box; 
+-webkit-box-sizing: border-box; 
+-ms-box-sizing: border-box; 
+box-sizing: border-box; }
+
+html,body{border:0 none;margin:0;padding:0}div,a,ul,li{behavior:url(PIE.htc)}h1,h2,h3,h4,h5,h6{margin:0;padding:0;}p,ul,ol{margin:0}button:focus{outline:0}img{border:0 none;max-width:100%;vertical-align:middle}img a{border:0 none;outline:0 none}a,a:link,a:visited,a:hover,a:focus{text-decoration:none;-moz-outline-style:none;outline:none;}.clearfix{clear:both}* {margin: 0;}
+
+
+
+/*----------------Responsive css Start------------------*/
+
+@media screen and (max-width:1024px) {
+	
+.carousel-caption {
+  bottom: 40px;
+}	
+	
+	
+}
+
+
+
